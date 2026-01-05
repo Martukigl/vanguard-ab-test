@@ -107,10 +107,6 @@ Day 4 focused on confirming that the experiment results were reliable and not dr
 - **Randomisiation:** Test and Control groups were largely balanced, with only minor demographic differences that do not affect conclusions.
 - **Assesment:** Long enough to capture typical user behavior and reduce short-term or novelty effects.
 
-### Duration Assessment
-
-- **Timeframe:** March 15, 2017 – June 20, 2017
-- **Conclusion:** Drug offenses are more prevalent in central districts with higher young population density.
 
 ### 🔗 Key Takeaway
 
