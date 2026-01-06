@@ -107,15 +107,25 @@ Day 4 focused on confirming that the experiment results were reliable and not dr
 - **Randomisiation:** Test and Control groups were largely balanced, with only minor demographic differences that do not affect conclusions.
 - **Assesment:** Long enough to capture typical user behavior and reduce short-term or novelty effects.
 
-### Duration Assessment
 
-- **Timeframe:** March 15, 2017 – June 20, 2017
-- **Conclusion:** Drug offenses are more prevalent in central districts with higher young population density.
-
-### Key Takeaway
+### 🔗 Key Takeaway
 
 - The experiment was well-designed, sufficiently long, and free from meaningful demographic bias, supporting confidence in the results.
 
 
 ---
-|
+## Day 5: Bonus Analysis – Client Behavior & Efficiency
+
+Day 5 focused on deeper behavioral insights and validating the robustness of our findings beyond completion rates.
+
+- **User behavior remains consistent:** Clients follow similar paths in both designs, with no increase in steps or complexity.
+- **Efficiency unchanged:** Time spent is statistically different but practically negligible (+5.5s), meaning both designs are equally efficient.
+- **Robust results:** Effect size and power analysis confirm the sample size was sufficient and the findings are reliable.
+
+- ### 🔗 Key Takeaway
+
+- Bonus analysis confirm that the new design improves completion, reinforcing confidence in the rollout decision.
+
+---
+
+## Day 6 and 7: 
