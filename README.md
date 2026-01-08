@@ -1,6 +1,18 @@
 # Vanguard-ab-test
 A/B testing analysis of Vanguard’s digital process redesign, including EDA, KPIs, hypothesis testing, and visualization.
 ---
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![uv](https://img.shields.io/badge/uv-Environment-4CAF50)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+
+
+---
 
 ## Project Overview
 
