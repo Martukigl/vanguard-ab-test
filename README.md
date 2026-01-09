@@ -19,7 +19,9 @@ A/B testing analysis of Vanguard’s digital process redesign, including EDA, KP
 We are a team of data analysts who work with data from start to finish, cleaning it, analyzing it, and presenting insights in a clear and meaningful way.
 
 
-The presentation is available (Insert when done)
+The presentation is available [here](https://docs.google.com/presentation/d/17qJ-Mj6QyY_XEBmsvW4mLutr-CmPJlt_RGi0PgDfKW0/edit?usp=sharing).
+---
+Tableau dashboard and sheets available [here](https://public.tableau.com/views/Book1_17678057066170/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ---
 
 ## 💾 Data Sources
@@ -49,7 +51,6 @@ The initial day focused on exploratory data analysis and defining the analytical
 | **H1** | Reduce time to Complete   | Clients using the new design complete the process faster than clients using the original design.                                    |
 | **H2** | Less error/drop off       | Clients in the test group are less likely to abandon the process during the initial steps compared to the control group.            |
 
-
 ---
 
 ## Day 2: Data Cleaning and Preprocessing
@@ -63,8 +64,6 @@ Day 2 focused on preparing the raw Vanguard datasets for analysis and ensuring c
 3. **Handling Missing Values**: Identified and assessed missing values in demographic attributes and web events.
 4. **Initial EDA**: Conducted preliminary analysis to examine distributions, completion rates, session counts, and potential anomalies.
  
- 
-
 ---
 
 ## Day 3: Hypothesis Testing – Completion & Balance Checks
@@ -94,14 +93,11 @@ Day 3 focused on validating whether the new design led to a meaningful and relia
 - `Finding` → Slight statistical difference but negligible in practice.
 - `Coclusion` → Groups are sufficiently balanced; results are not biased by tenure.
 
-
 ---
 
 ### 🔗 Key Takeaway
 
 - The new design delivers a statistically significant and practically meaningful increase in completion rates, with no material group imbalance.
-
-
 
 ---
 
@@ -124,8 +120,8 @@ Day 4 focused on confirming that the experiment results were reliable and not dr
 
 - The experiment was well-designed, sufficiently long, and free from meaningful demographic bias, supporting confidence in the results.
 
-
 ---
+
 ## Day 5: Bonus Analysis – Client Behavior & Efficiency
 
 Day 5 focused on deeper behavioral insights and validating the robustness of our findings beyond completion rates.
@@ -140,4 +136,26 @@ Day 5 focused on deeper behavioral insights and validating the robustness of our
 
 ---
 
-## Day 6 and 7: 
+## Day 6 and 7: Tableau Dashboard & Final Recommendation
+
+Day 6 and 7 focused on learning Tableau and how to integrate and finalising our findings 
+
+- **Clear performance view:**  The Tableau dashboard compares Test vs Control completion, errors, and time spent, with filters for age and gender to add EDA context.
+- **Results:** Higher completion rates appear across all segments, with no meaningful increase in time or complexity.
+- **Decision:** Proceed with full rollout and continue monitoring, focusing on reducing early-stage errors.
+
+---
+
+## Day 8 and 9: Dashboarding and Presentation prep 
+
+Day 8 and 9 focused on compiling everything together for our final presentation
+
+- **Dashboard Integration:** All team visualisations were combined into a single, consistent Tableau dashboard.
+- **Presentation:** Refined story, polished slides, and validated through a dry run.
+- **Outcome:** Clear insights supporting a confident rollout decision.
+
+---
+
+## 👥 Team
+
+Alan, Ou, Ako, Marta
