@@ -1,0 +1,21 @@
+Variation,Step,Status,Probability
+Control,confirm,Clean Step,1
+Control,start,Clean Step,0.8804652226
+Control,step_1,Clean Step,0.9232851986
+Control,step_2,Clean Step,0.9180051104
+Control,step_3,Clean Step,0.9929462832
+Test,confirm,Clean Step,1
+Test,start,Clean Step,0.7962869076
+Test,step_1,Clean Step,0.9110280133
+Test,step_2,Clean Step,0.9299145299
+Test,step_3,Clean Step,0.9986944582
+Control,confirm,Error_Rate,0
+Control,start,Error_Rate,0.1195347774
+Control,step_1,Error_Rate,0.07671480144
+Control,step_2,Error_Rate,0.08199488958
+Control,step_3,Error_Rate,0.007053716766
+Test,confirm,Error_Rate,0
+Test,start,Error_Rate,0.2037130924
+Test,step_1,Error_Rate,0.08897198672
+Test,step_2,Error_Rate,0.07008547009
+Test,step_3,Error_Rate,0.0013055418

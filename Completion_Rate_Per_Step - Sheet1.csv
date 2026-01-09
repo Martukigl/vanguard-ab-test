@@ -1,0 +1,17 @@
+Variation,Step,Probability,Status
+Control,Start to Step 1,0.3448707909,Success
+Test,Start to Step 1,0.3052214949,Success
+Control,Step 1 to Step 2,0.51044505,Success
+Test,Step 1 to Step 2,0.4613466334,Success
+Control,Step 2 to Step 3,0.6286353468,Success
+Test,Step 2 to Step 3,0.6801470588,Success
+Control,Step 3 to Confirm,0.1486655026,Success
+Test,Step 3 to Confirm,0.08446155757,Success
+Control,Start to Step 1,0.6551292091,Drop
+Test,Start to Step 1,0.6947785051,Drop
+Control,Step 1 to Step 2,0.48955495,Drop
+Test,Step 1 to Step 2,0.5386533666,Drop
+Control,Step 2 to Step 3,0.3713646532,Drop
+Test,Step 2 to Step 3,0.3198529412,Drop
+Control,Step 3 to Confirm,0.8513344974,Drop
+Test,Step 3 to Confirm,0.9155384424,Drop
